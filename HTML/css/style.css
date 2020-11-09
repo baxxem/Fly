@@ -318,7 +318,7 @@ ol {
 .header-social a:hover,
 .footer-social a:hover,
 .geme-social-share a:hover {
-	background: #b01ba5;
+	background: #6d4ae0;
 }
 
 .header-bar-warp {
@@ -348,7 +348,7 @@ ol {
 }
 
 .user-panel a:hover {
-	color: #b01ba5;
+	color: #6d4ae0;
 }
 
 .main-menu {
@@ -390,7 +390,7 @@ ol {
 }
 
 .main-menu li a:hover {
-	color: #b01ba5;
+	color: #6d4ae0;
 }
 
 .main-menu li a:hover:after {
@@ -398,7 +398,7 @@ ol {
 }
 
 .main-menu li a:hover i {
-	color: #b01ba5;
+	color: #6d4ae0;
 }
 
 .main-menu li:hover .sub-menu {
@@ -408,7 +408,7 @@ ol {
 }
 
 .main-menu li:hover>a {
-	color: #b01ba5;
+	color: #6d4ae0;
 }
 
 .main-menu li:hover>a:after {
@@ -451,7 +451,7 @@ ol {
 }
 
 .main-menu li .sub-menu li a:hover {
-	color: #b01ba5;
+	color: #6d4ae0;
 }
 
 .slicknav_menu {
@@ -496,8 +496,8 @@ ol {
 }
 
 .hero-slider .owl-dots .owl-dot.active {
-	color: #b01ba5;
-	border: 2px solid #b01ba5;
+	color: #6d4ae0;
+	border: 2px solid #6d4ae0;
 }
 
 .hero-slider .owl-nav {
@@ -514,7 +514,7 @@ ol {
 .hero-item {
 	height: 921px;
 	padding-top: 125px;
-	border-bottom: 2px solid #b01ba5;
+	border-bottom: 2px solid #6d4ae0;
 }
 
 .hero-item h2 {
