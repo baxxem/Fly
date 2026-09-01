@@ -14,6 +14,8 @@ bad one.
 
 - `2026-08-31` — a good week ends with "nothing has been fixed," anchored to
   the bad stretch ~a month earlier.
+- `2026-09-01` — "you weren't able to, so it's not happening." The good week
+  is not entering the calculation at all.
 
 ---
 
@@ -38,15 +40,79 @@ about the event.
 
 - `2026-08-31` / `2026-09-01` — vet visit he wasn't going to (work). "You're
   going to work" appears in the same breath as "we're growing apart."
+- `2026-09-01` — the grievance resolves to something concrete and dated: she
+  had a panic attack at that vet visit, alone, and he texted instead of
+  calling. "Growing apart" had a specific event underneath it.
+
+---
+
+## P4 — Distance-then-door works; pursuit doesn't
+
+Leaving one low-pressure opening and then genuinely stepping back gets a
+response. Repeated calling and repeated asking her to come back does not, and
+appears to harden her position.
+
+- `2026-09-01 (morning)` — he kept distance, sent one "I'm here, text me when
+  you can" text, did not call. She replied.
+- `2026-09-01 (afternoon)` — repeated calls through the day, repeated "please
+  come back home." She stopped picking up, said she wasn't coming back, and
+  set a condition on returning. The pickups that did happen went badly.
+- `2026-09-01 (evening)` — after he stopped and was doing laundry, **she
+  called him.** He missed it.
+
+The clearest same-day A/B in the record. When he stops pursuing, she moves
+toward him; when he pursues, she moves away.
+
+---
+
+## P5 — He absorbs sustained verbal aggression and answers it with accountability
+
+Established `2026-09-01`. Previously logged as "Watching"; promoted because
+the record now holds enough dated instances in a single day.
+
+Observable, in his account, across one day: "fuck you" and continued cursing;
+"go fuck yourself"; "don't fucking talk to me"; "you delusional fuck";
+"lullaby" in response to him asking to understand; a conditional demand that
+he leave the house before she'd return. This came before, during, and after
+he asked what would help, provided the help, apologised, and twice took
+accountability.
+
+He held a boundary once — *"I cannot stay in conversations like that. I'm
+here for you when things are calmer"* — and then did not hold it for the rest
+of the day.
+
+Rules for this entry, going forward:
+
+- **No label goes on her here and no verdict on the relationship.** She has a
+  side, she is not in this record, and she was in a panic attack for part of
+  this day.
+- **Log every instance with a date and with what preceded it.** Frequency and
+  trend are the only honest arguments, and they need data.
+- **Do not let it be the whole story.** The same day contains a good week, two
+  working practices, and her calling him back.
+- **Do not let it disappear either.** He deletes these messages as they
+  arrive. If the record doesn't hold them, nothing does.
+
+---
+
+## P6 — One ambiguous sentence became the day's main event
+
+`2026-09-01` — he wrote "I won't fight to change that right now," meaning *I
+won't argue with how you feel.* She read it as *I accept that we're never
+speaking again.* Roughly everything after that point was her responding to a
+sentence he never meant.
+
+He has described himself as "not the best speaker." The practical implication
+is not that he should speak less — it's that when a message lands wrong, the
+correction has to be **short, plain, and about the meaning only**, sent once,
+with no argument attached. He has not yet sent that correction.
 
 ---
 
 ## Watching (not yet a pattern)
 
-- **Aggression during conflict.** `2026-09-01` — shouting, "go fuck yourself"
-  or similar, sustained aggression after he offered and then gave the help she
-  asked for. One instance is one instance. Log it plainly each time it
-  happens, with what preceded it. If it repeats, it stops being an incident
-  and becomes something to name directly with him.
-- **Distance-then-door works better than pursuit.** `2026-09-01` — he chose
-  a low-pressure text over a call and got a reply. Needs more data.
+- **Him matching her register.** `2026-09-01` — one message ("what the fuck is
+  going on"), after roughly nine hours of absorbing. First instance in the
+  record.
+- **The house as leverage.** `2026-09-01` — "leave the house, then I'll come."
+  First instance. Note whether it recurs or gets dropped once things calm.
