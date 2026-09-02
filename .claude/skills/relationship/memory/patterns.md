@@ -60,8 +60,13 @@ appears to harden her position.
 - `2026-09-01 (evening)` — after he stopped and was doing laundry, **she
   called him.** He missed it.
 
+- `2026-09-02` — she was replying roughly an hour apart. He pressed inside
+  that gap ("can you please reply to me," "when can we talk," repeated calls).
+  Her replies got shorter and harder.
+
 The clearest same-day A/B in the record. When he stops pursuing, she moves
-toward him; when he pursues, she moves away.
+toward him; when he pursues, she moves away. Her reply cadence is the pace
+she is offering; matching it costs him nothing.
 
 ---
 
@@ -77,9 +82,19 @@ he leave the house before she'd return. This came before, during, and after
 he asked what would help, provided the help, apologised, and twice took
 accountability.
 
+`2026-09-02` — cursing again, plus a phone call spent shouting, name-calling
+and screaming at him to leave; a second call in a register he experienced as
+deliberately frightening (*"I felt like my dad was fucking talking to me"*);
+and **"I'm calling your mom"** — his family used as pressure mid-fight. All
+of it after he opened the day with a correction and an undefended apology.
+
 He held a boundary once — *"I cannot stay in conversations like that. I'm
-here for you when things are calmer"* — and then did not hold it for the rest
-of the day.
+here for you when things are calmer"* — and then did not hold it, either day.
+
+**The slope matters more than any single instance.** Day one: cursing, one
+blow-up, she leaves. Day two: cursing, sustained screaming, a demand that he
+move out of his home, his mother invoked as leverage, and a tone aimed at
+frightening him. Two days, one direction, fast. Keep logging the slope.
 
 Rules for this entry, going forward:
 
@@ -116,3 +131,26 @@ with no argument attached. He has not yet sent that correction.
   record.
 - **The house as leverage.** `2026-09-01` — "leave the house, then I'll come."
   First instance. Note whether it recurs or gets dropped once things calm.
+
+
+---
+
+## P7 — The house has become the demand, not the setting
+
+`2026-09-01` — "Leave the house, then I'll come." Reads as a request for
+space.
+`2026-09-02` — resolves into **"When you finish packing your things and go to
+October, let me know."** He offered to step out and call from the street so
+she could be home; she rejected that. So it is not space she is asking for.
+
+Two different questions are now tangled together, and he keeps answering the
+smaller one:
+
+1. **Will he give her the house for a night?** — He offered. Rejected.
+2. **Will he move out?** — This is the actual ask, and it is a housing
+   question, not a relationship one.
+
+Rule for this entry: **nothing about the house gets decided while either of
+them is shouting.** Note it, don't negotiate it. The record needs the
+arrangement itself — lease, ownership, whose name, what October is to him —
+and does not yet have it.

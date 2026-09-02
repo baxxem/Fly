@@ -5,12 +5,28 @@ Stable context. Update only when something durable changes.
 ## Who
 
 - **Bassem** — the narrator. Everything in `journal/` is his account.
-- **His partner** — referred to as "she"/"her" until he records a name.
-  She is not a narrator here and has never seen this record.
+- **His partner — "Memo," also "Mo."** Recorded 2026-09-02 from how he
+  addresses her. She is not a narrator here and has never seen this record.
 - **A pet** — established in the record as of 2026-09-01 (vet visit). Species
   and name not yet recorded. Nobody has asked how the visit went.
-- **Her parents** — she has a parents' house she can and does go to. First
-  used 2026-09-01.
+- **Her family's place** — somewhere she can and does go to stay. First used
+  2026-09-01. He renders it as "her ID" in speech; the transcription is
+  unclear and the actual word is not yet recorded.
+- **His mother** — invoked by Memo as leverage on 2026-09-02 ("I'm calling
+  your mom").
+- **His father** — not otherwise in the record. Referenced 2026-09-02 only
+  because Memo's tone on a call put him in mind of being spoken to by his
+  dad, and frightened him.
+
+## Places
+
+- **The house** — where they live together. As of 2026-09-02 it is the
+  contested object: she won't come home while he's in it, and has asked him
+  to pack and leave. Nothing about the arrangement — lease, ownership, whose
+  name — is recorded, and it now matters.
+- **October** — where she has told him to go. Almost certainly 6th of October
+  City (Egypt); inferred, not confirmed. What it is to him (family, previous
+  home) is not recorded.
 
 ## Housekeeping
 
@@ -52,7 +68,13 @@ actually running — a lapsed practice is usually the story.
 
 ## Current state
 
-**As of 2026-09-01 evening:** she is at her parents' house and has said she
-isn't coming back, conditioned on him leaving the house. She called him back
-late in the day and he missed it. Nothing is resolved. Update this section
-whenever the state changes — it is the first thing to read on a new day.
+**As of 2026-09-02 morning:** Memo is staying at her family's place. The
+request has resolved from "leave the house" into **"pack your things and go
+to October"** — she is asking him to move out, not to give her space. He has
+refused: "I decided I'm not leaving." He offered to step out so she could be
+home; she rejected that. She has said "I'm calling your mom," and a phone
+call left him frightened. He is going to work. Nothing is resolved and the
+situation is escalating day over day.
+
+Update this section whenever the state changes — it is the first thing to
+read on a new day.
